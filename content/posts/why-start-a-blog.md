@@ -33,7 +33,7 @@ Though my career is pretty significant for me and at the moment this is what peo
 
 This is a personal space and in the future, it should become my time-machine. For professional guidance, we'll have MerakiDesigns, my design studio's website. More on that later.
 
-![](/content/images/chris-lee-70l1tdai6rm-unsplash.jpg)
+![](/content/images/marten-bjork-f68k6buor2s-unsplash.jpg)
 
 I want to write about the things I'm excited about. And there are a lot of things in this category. Currently, it's probably houseplants I'm most delighted about. I'm discovering their beauty and their needs. I'm learning their names. And I'm slowly learning how to properly water them. I started understanding how to nurture them. And I want to share this journey. Plus the radiant photographs I take of them. Along with all the other projects that may grow from this energy.
 
