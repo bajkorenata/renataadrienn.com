@@ -5,7 +5,7 @@ author: Renáta-Adrienn
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
 ---
-## Why do I want to start a blog now?
+Why do I want to start a blog now?
 
 Honestly, it's been long due. I was craving this space where I can publish my thoughts and my projects for a very long time. But this whole time I was going at it with the wrong attitude. I couldn't decide on a CMS and I refused to use a theme built by someone else. 
 
