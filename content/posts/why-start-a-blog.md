@@ -2,7 +2,7 @@
 date: 2021-02-20T16:35:31+02:00
 title: Why Start a Blog
 author: Renáta-Adrienn
-hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
+hero_image: "/content/images/chris-lee-70l1tdai6rm-unsplash.jpg"
 
 ---
 Why do I want to start a blog now?
@@ -32,6 +32,8 @@ I very much enjoy responding to all these questions and I feel that I could be w
 Though my career is pretty significant for me and at the moment this is what people ask me the most about, and I want to write about all the other things I know too. All the things I experienced and learned from. Be it something big or small. Something serious or witty.
 
 This is a personal space and in the future, it should become my time-machine. For professional guidance, we'll have MerakiDesigns, my design studio's website. More on that later.
+
+![](/content/images/chris-lee-70l1tdai6rm-unsplash.jpg)
 
 I want to write about the things I'm excited about. And there are a lot of things in this category. Currently, it's probably houseplants I'm most delighted about. I'm discovering their beauty and their needs. I'm learning their names. And I'm slowly learning how to properly water them. I started understanding how to nurture them. And I want to share this journey. Plus the radiant photographs I take of them. Along with all the other projects that may grow from this energy.
 
