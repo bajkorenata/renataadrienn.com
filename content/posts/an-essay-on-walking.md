@@ -1,6 +1,6 @@
 ---
 date: 2021-02-20T16:35:31+02:00
-title: 'Hello World: Setting Intentions'
+title: Hello World & Setting Intentions
 author: Renáta-Adrienn
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
