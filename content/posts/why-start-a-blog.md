@@ -1,5 +1,5 @@
 ---
-date: 2021-02-20T16:35:31+02:00
+date: 2021-02-20T16:35:31.000+02:00
 title: Why Start a Blog
 author: Renáta-Adrienn
 hero_image: "/content/images/chris-lee-70l1tdai6rm-unsplash.jpg"
@@ -27,9 +27,9 @@ Welcome to my space, friend. My name is Renáta-Adrienn and I'm a designer. I wi
 
 I want to write about the things I get most asked about. For example, there were quite many young women reaching out to me in 2020 asking for career guidance: How can I get started in UX Design? Should I learn UX or UI Design? Do I need to learn to code? What salary can I expect? What should I include in my portfolio?
 
-I very much enjoy responding to all these questions and I feel that I could be way more helpful in a written format, which later can also be extended (from my part) and revisited (by any curious human being). It would definitely make my life easier. I wouldn't have to browse for the useful links in my raindrop app and youtube playlists every time someone asks me for suggestions. All would be embedded in one place together with my complimentary notes. You get it.
+I very much enjoy responding to all these questions and I feel that I could be way more helpful in a written format, which later can also be extended (from my part) and revisited (by any curious human being). It would definitely make my life easier. I wouldn't have to browse for the useful links in my raindrop app and youtube playlists every time someone asks me for suggestions. All would be embedded in one place together with my complementary notes. You get it.
 
-Though my career is pretty significant for me and at the moment this is what people ask me the most about, and I want to write about all the other things I know too. All the things I experienced and learned from. Be it something big or small. Something serious or witty.
+Though my career is important for me, and it's what I'm most asked about, I want to write about all the other things I know too. All the things I experienced and learned from. Be it something big or small. Something serious or witty.
 
 This is a personal space and in the future, it should become my time-machine. For professional guidance, we'll have MerakiDesigns, my design studio's website. More on that later.
 
