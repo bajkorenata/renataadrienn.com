@@ -24,8 +24,8 @@ export default function BlogList() {
                     />
                   </div>
                   <div className={blogListStyles.list__info}>
+                    <h5>{blog.node.frontmatter.date}</h5>
                     <h2>{blog.node.frontmatter.title}</h2>
-                    <h3>{blog.node.frontmatter.date}</h3>
                     <p>{blog.node.excerpt}</p>
                   </div>
                 </li>
