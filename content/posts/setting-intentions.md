@@ -7,7 +7,7 @@ hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 ---
 Why do I want to start a blog now?
 
-Honestly, it's been long due. I was craving this space where I can publish my thoughts and my projects for a very long time. But this whole time I was going at it with the wrong attitude. I couldn't decide on a CMS and I refused to use a theme built by someone else. 
+Honestly, it's been long due. I was craving this space where I can publish my thoughts and my projects for a very long time. But this whole time I was going at it with the wrong attitude. I couldn't decide on a CMS and I refused to use a theme built by someone else.
 
 I mislead myself thinking that none of that stuff was good enough. I feared putting my thoughts out here and I made up all kinds of excuses.
 
@@ -19,15 +19,17 @@ And I'm starting something new.
 
 And I'm going at it with a very different mindset.
 
-![](/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg)
+[93679466_2903927183006770_3947266949014545908_n.jpg?_nc_ht=instagram.ftsr1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9iWWBS5IDyAAX8X8Ig7&tp=1&oh=98741d8a0208e6ee8ba76cba0655527a&oe=6058B808](https://instagram.ftsr1-2.fna.fbcdn.net/v/t51.2885-15/e35/93679466_2903927183006770_3947266949014545908_n.jpg?_nc_ht=instagram.ftsr1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9iWWBS5IDyAAX8X8Ig7&tp=1&oh=98741d8a0208e6ee8ba76cba0655527a&oe=6058B808 "93679466_2903927183006770_3947266949014545908_n.jpg?_nc_ht=instagram.ftsr1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9iWWBS5IDyAAX8X8Ig7&tp=1&oh=98741d8a0208e6ee8ba76cba0655527a&oe=6058B808")
 
 Welcome to my space, friend. My name is Renáta-Adrienn and I'm a designer. I will use my writing to clarify my thoughts and to share the things I experience. You will discover some of the things I'm passionate about and how + what I think about them. I want to tell you some good stories too.
+
+## Setting Intentions
 
 I want to write about the things I get most asked about. For example, there were quite many young women reaching out to me in 2020 asking for career guidance: How can I get started in UX Design? Should I learn UX or UI Design? Do I need to learn to code? What salary can I expect? What should I include in my portfolio?
 
 I very much enjoy responding to all these questions and I feel that I could be way more helpful in a written format, which later can also be extended (from my part) and revisited (by any curious human being). It would definitely make my life easier. I wouldn't have to browse for the useful links in my raindrop app and youtube playlists every time someone asks me for suggestions. All would be embedded in one place together with my complimentary notes. You get it.
 
-Though my career is pretty significant for me and at the moment this is what people ask me the most about, and I want to write about all the other things I know too. All the things I experienced and learned from. Be it something big or small. Something serious or witty. 
+Though my career is pretty significant for me and at the moment this is what people ask me the most about, and I want to write about all the other things I know too. All the things I experienced and learned from. Be it something big or small. Something serious or witty.
 
 This is a personal space and in the future, it should become my time-machine. For professional guidance, we'll have MerakiDesigns, my design studio's website. More on that later.
 
