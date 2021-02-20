@@ -36,5 +36,5 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 pages:
-- content/posts/how-we-built-my-blog-in-less-than-3-hours.md
+- content/posts/how-we-built-my-blog.md
 - content/posts/why-start-a-blog.md
