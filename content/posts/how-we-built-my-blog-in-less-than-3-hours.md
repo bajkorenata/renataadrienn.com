@@ -1,7 +1,7 @@
 ---
 date: 2021-02-20T17:00:59+02:00
 hero_image: "/content/images/qinghong-shen-2kk81yj8tm8-unsplash.jpg"
-title: How We Built My Blog (in less than 3 hours)
+title: How We Built My Blog (in less than three hours)
 author: Renáta-Adrienn
 
 ---
