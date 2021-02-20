@@ -19,7 +19,7 @@ And I'm starting something new.
 
 And I'm going at it with a very different mindset.
 
-[93679466_2903927183006770_3947266949014545908_n.jpg?_nc_ht=instagram.ftsr1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9iWWBS5IDyAAX8X8Ig7&tp=1&oh=98741d8a0208e6ee8ba76cba0655527a&oe=6058B808](https://instagram.ftsr1-2.fna.fbcdn.net/v/t51.2885-15/e35/93679466_2903927183006770_3947266949014545908_n.jpg?_nc_ht=instagram.ftsr1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9iWWBS5IDyAAX8X8Ig7&tp=1&oh=98741d8a0208e6ee8ba76cba0655527a&oe=6058B808 "93679466_2903927183006770_3947266949014545908_n.jpg?_nc_ht=instagram.ftsr1-2.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9iWWBS5IDyAAX8X8Ig7&tp=1&oh=98741d8a0208e6ee8ba76cba0655527a&oe=6058B808")
+![](/content/images/93679466_2903927183006770_3947266949014545908_n.jpg)
 
 Welcome to my space, friend. My name is Renáta-Adrienn and I'm a designer. I will use my writing to clarify my thoughts and to share the things I experience. You will discover some of the things I'm passionate about and how + what I think about them. I want to tell you some good stories too.
 
