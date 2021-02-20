@@ -1,6 +1,6 @@
 ---
 date: 2021-02-20T16:35:31+02:00
-title: Setting Intentions
+title: Why Start a Blog
 author: Renáta-Adrienn
 hero_image: "/content/images/heather-shevlin-3B_NrzTjajc-unsplash.jpg"
 
