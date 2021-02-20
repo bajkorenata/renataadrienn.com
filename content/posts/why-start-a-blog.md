@@ -19,7 +19,7 @@ And I'm starting something new.
 
 And I'm going at it with a very different mindset.
 
-![](/content/images/93679466_2903927183006770_3947266949014545908_n.jpg)
+![](/content/images/greece-plants.jpg)
 
 Welcome to my space, friend. My name is Renáta-Adrienn and I'm a designer. I will use my writing to clarify my thoughts and to share the things I experience. You will discover some of the things I'm passionate about and how + what I think about them. I want to tell you some good stories too.
 
