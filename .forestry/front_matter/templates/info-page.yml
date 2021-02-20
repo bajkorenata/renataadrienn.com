@@ -33,9 +33,9 @@ fields:
     name: twitter_handle
     label: twitter_handle
   - type: text
-    name: github_handle
-    label: github_handle
-    hidden: true
+    name: instagram_handle
+    label: instagram_handle
+    hidden: false
 - name: background_color
   type: color
   label: background_color
